@@ -1,0 +1,6 @@
+print("Maior: ", 2 > 3)
+print("Menor: ", 2 < 3)
+print("Maior ou Igual:", 2 >= 3)
+print("Menor ou Igual: ", 2 <= 3)
+print("Igual: ", 2 == 3)
+print("Diferente: ", 2 != 3)

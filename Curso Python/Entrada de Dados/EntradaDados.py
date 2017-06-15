@@ -1,4 +1,6 @@
 nome = input("Informe seu nome: ")
-print(nome)
+print("Seu nome:", nome)
 
-idade = int(input("Informe sua idade: "))
+idade = input("Informe a idade: ")
+print("Sua idade: ", idade)
+idade = int(input("Digite sua idade"))

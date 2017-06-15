@@ -1,0 +1,2 @@
+Python é legal pakas
+Wellcome to Django
